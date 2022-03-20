@@ -1,4 +1,4 @@
-![Carbon](./Screenshot 2022-03-19 161209.png)
+![Carbon](./Screenshot2022-03-19161209.png)
 # Carbon - Code Editor
 
 Carbon is a very light-weight code editor made with Electron to run natively on Windows and macOS.
